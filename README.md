@@ -1,5 +1,6 @@
 # AG2
 Trabalho desenvolvido para avaliação global 2 no curso de Engenharia de Computação INATEL(Instituto Nacional de Telecomunicações).
+#Comparação de precisão entre os modelos 
 Decision Tree Classifier:
 
 Accuracy: 0.8409090909090909
